@@ -1,2 +1,0 @@
-# anwar-website
-web
